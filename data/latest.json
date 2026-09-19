@@ -1,35 +1,35 @@
 {
- "updated": "2026-09-19 08:25 KST",
+ "updated": "2026-09-20 08:17 KST",
  "assets": {
   "BTC": {
    "date": "2026-09-18",
-   "spot": 81033.382812,
+   "spot": 80901.460938,
    "lev": 18.7,
-   "spot_chg": 6.15,
+   "spot_chg": 5.98,
    "lev_chg": 12.38,
    "count": 525
   },
   "ETH": {
    "date": "2026-09-18",
-   "spot": 2614.75,
+   "spot": 2611.347168,
    "lev": 29.59,
-   "spot_chg": 6.92,
+   "spot_chg": 6.78,
    "lev_chg": 15.86,
    "count": 525
   },
   "SOL": {
    "date": "2026-09-18",
-   "spot": 113.089996,
+   "spot": 112.59922,
    "lev": 71.2,
-   "spot_chg": 11.52,
+   "spot_chg": 11.03,
    "lev_chg": 26.71,
    "count": 376
   },
   "XRP": {
    "date": "2026-09-18",
-   "spot": 1.398,
+   "spot": 1.396153,
    "lev": 32.31,
-   "spot_chg": 7.94,
+   "spot_chg": 7.79,
    "lev_chg": 17.62,
    "count": 363
   }
